@@ -70,27 +70,6 @@ closed-loop-glucose-control-simulation/
 - Reinforcement Learning
 - Simulation modelling
 
-## How to run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/otoffi13/closed-loop-glucose-control-simulation.git
-cd closed-loop-glucose-control-simulation
-```
-
-Install the required Python packages:
-
-```bash
-pip install numpy pandas matplotlib torch jupyter
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook 1.ipynb
-```
-
 ## Thesis document
 
 The full thesis document is available in this repository:
